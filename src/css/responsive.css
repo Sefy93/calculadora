@@ -1,0 +1,36 @@
+@media (max-width:375px){
+   body{
+    width: 100%;
+   } 
+
+   .container{
+    width: 90%;
+    
+   }
+
+   .key{
+    width: 60px;
+   }
+   .del{
+    width: 60px;
+   }
+
+   .reset , .result{
+    width:40.5% ;
+   }
+
+   .attribution{
+    font-size: 12px;
+   }
+}
+@media (max-width:320px){
+   .container{
+    width: 95%;
+    
+   }
+
+   .reset , .result{
+    width:44.5% ;
+   }
+
+}
